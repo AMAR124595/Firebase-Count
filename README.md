@@ -7,6 +7,10 @@ To interface a push button with the ESP8266 microcontroller and upload the butto
 2. Push Button
 # connection
 ![lesson7](https://github.com/user-attachments/assets/58516281-9c48-452e-a965-11312b01ed4f)
+## If You Are Using Tactile push button module
+* GND ----> -
+* VCC ----> +
+* D2 -----> S
 # Procedure 
 1. Create a Firebase Project
 2. Collect The network credentials, URL database, and project API key ,Email ,Password
